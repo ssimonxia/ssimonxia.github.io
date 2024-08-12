@@ -17,3 +17,6 @@ Research Areas
 * Learning & AI
 * High Performance Computing
 
+News
+======
+* **Aug 2024:** My personal website is live!
