@@ -1,23 +1,25 @@
 ---
-title: "Generative Model for In-car Hand Gesture Video Generation"
-excerpt: "<p>The demand for advanced video generation techniques has surged with the increasing application of artificial intelligence in multimedia and human-computer interaction systems. In this context, video generation models that can produce high-quality outputs with specific class or textual content are gaining prominence. In this research, we propose novel structured models for generating in-car hand gesture videos based on specific classes and explore the capability of generating new and diverse gesture videos, contributing to the growing field of automated video generation.</p>"
+title: "Ensemble-Based Framework for Enhanced Classification Accuracy"
+excerpt: "<p>In machine learning, improving classification accuracy is crucial, especially when dealing with complex datasets. This project focuses on enhancing model performance by leveraging ensemble methods and strategic data partitioning. Instead of treating all classes uniformly, we break them into meaningful subsets, allowing the model to specialize and make more accurate predictions. By intelligently organizing the data and refining how the model processes information, we improve both accuracy and robustness. Through extensive experimentation on hand gesture datasets, we demonstrate the effectiveness of this approach, highlighting the power of structured learning and ensemble techniques in advancing classification performance.</p>"
 collection: research
 ---
 
-The demand for advanced video generation techniques has surged with the increasing application of artificial intelligence in multimedia and human-computer interaction systems. In this context, video generation models that can produce high-quality outputs with specific class or textual content are gaining prominence. In this research, we propose novel structured models for generating in-car hand gesture videos based on specific classes and explore the capability of generating new and diverse gesture videos, contributing to the growing field of automated video generation.
+In machine learning, improving classification accuracy is crucial, especially when dealing with complex datasets. This project focuses on enhancing model performance by leveraging ensemble methods and strategic data partitioning. Instead of treating all classes uniformly, we break them into meaningful subsets, allowing the model to specialize and make more accurate predictions. By intelligently organizing the data and refining how the model processes information, we improve both accuracy and robustness. Through extensive experimentation on hand gesture datasets, we demonstrate the effectiveness of this approach, highlighting the power of structured learning and ensemble techniques in advancing classification performance.
 
 <br/>
 <h1>Skills Used</h1>
 
-* Computer Vision
-* Machine & Deep Learning
+* Machine Learning
+* Algorithm Design
+* Deep Learning
 * PyTorch
-* Image & Video Generation Models
+* Python
 
 <br/>
-<h1>Collaborator & Mentor</h1>   
+<h1>Collaborator</h1>   
 
 * [Aamir Hasan](https://aamzhas.github.io/)
+* [Haonan Chen](https://haonan16.github.io/)
 
 <br/>
 <h1>Advisor</h1>
