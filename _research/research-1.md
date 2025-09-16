@@ -1,31 +1,27 @@
 ---
-title: "HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments"
-excerpt: "<p>We study the problem of robot navigation in dense and interactive crowds with environmental constraints such as corridors and furniture. Previous methods fail to consider all types of interactions among agents and obstacles, leading to unsafe and inefficient robot paths. In this article, we leverage a graph-based representation of crowded and constrained scenarios and propose a structured framework to learn robot navigation policies with deep reinforcement learning. We first split the representations of different components in the environment, and propose a heterogeneous spatio-temporal graph to model distinct interactions among humans, robots, and obstacles. Based on the heterogeneous st-graph, we propose HEIGHT, a novel navigation policy network architecture with different components to capture heterogeneous interactions among entities through space and time. HEIGHT utilizes attention mechanisms to prioritize important interactions and a recurrent network to track changes in the dynamic scene over time, encouraging the robot to avoid collisions adaptively. Through extensive simulation and real-world experiments, we demonstrate that HEIGHT outperforms state-of-the-art baselines in terms of success and efficiency in challenging navigation scenarios. Furthermore, we demonstrate that our pipeline achieves better zero-shot generalization capability than previous works when the densities of humans and obstacles change.</p>"
+title: "HomE: A Homogeneous Ensemble Framework for Dynamic Hand Gesture Recognition"
+excerpt: "<p>This paper presents HomE, a homogeneous ensemble framework that leverages clustering and LLM-driven sampling to partition gesture classes, enabling expert learners to improve accuracy and robustness in dynamic hand gesture recognition.</p>"
 collection: research
 ---
 
-We study the problem of robot navigation in dense and interactive crowds with environmental constraints such as corridors and furniture. Previous methods fail to consider all types of interactions among agents and obstacles, leading to unsafe and inefficient robot paths. In this article, we leverage a graph-based representation of crowded and constrained scenarios and propose a structured framework to learn robot navigation policies with deep reinforcement learning. We first split the representations of different components in the environment, and propose a heterogeneous spatio-temporal graph to model distinct interactions among humans, robots, and obstacles. Based on the heterogeneous st-graph, we propose HEIGHT, a novel navigation policy network architecture with different components to capture heterogeneous interactions among entities through space and time. HEIGHT utilizes attention mechanisms to prioritize important interactions and a recurrent network to track changes in the dynamic scene over time, encouraging the robot to avoid collisions adaptively. Through extensive simulation and real-world experiments, we demonstrate that HEIGHT outperforms state-of-the-art baselines in terms of success and efficiency in challenging navigation scenarios. Furthermore, we demonstrate that our pipeline achieves better zero-shot generalization capability than previous works when the densities of humans and obstacles change.
+Hand gesture recognition (HGR) plays an essential role in human–computer interaction, enabling natural, touch-free control across domains such as virtual reality, sign language interpretation, and automotive interfaces. Despite notable progress using deep networks and multimodal data fusion, current HGR solutions still face challenges stemming from misclassifications and noise sensitivity. In this paper, we propose HomE, a homogeneous ensemble framework that aims to improve HGR models’ performance and robustness by partitioning gesture classes into smaller, more coherent subsets based on critical features uncovered in parallel by unsupervised clustering and an LLM-driven semantic sampler, and by training a dedicated expert learner for each subset. A separate router learner routes incoming samples to the most relevant expert learner, while the expert routing module fuses the outputs of all expert learners into a final classification. Extensive experiments on the NVGestures, DHG-14, and SHREC’17 datasets show that our method not only enhances accuracy and robustness over single-network baselines but also enables these base models to become more competitive with state-of-the-art approaches—all without altering their underlying architectures. Furthermore, our ablation studies verify that multiple heterogeneous sampling methods provide complementary strengths, ultimately boosting recognition performance. In addition to offering insights on sampling strategies, this work highlights the scalability of HomE for both depth and skeleton-based HGR tasks, suggesting its broader applicability to other domains where class diversity and label ambiguity pose obstacles for single-model approaches.
 
-ArXiv paper: [https://lnkd.in/gsHkyRda](https://lnkd.in/gsHkyRda)    
-Website: [https://lnkd.in/gvhdWbBE](https://lnkd.in/gvhdWbBE)  
-Video playlist: [https://lnkd.in/gFcTCG_r](https://lnkd.in/gFcTCG_r)    
+ArXiv paper: [https://ieeexplore.ieee.org/abstract/document/11099347](https://ieeexplore.ieee.org/abstract/document/11099347)      
 
 <br/>
 <h1>Skills Used</h1>
 
-* ROS
-* Deep Reinforcement Learning
-* Robot Dynamics & Control
-* Mobile Robotics
+* Machine Learning
+* Deep Learning
+* Algorithm Design
+* PyTorch
 * Python
 
 <br/>
 <h1>Collaborator</h1>   
 
-* [Shuijing Liu](https://shuijing725.github.io/)
-* [Fatemeh Cheraghi Pouria](https://www.linkedin.com/in/fatemeh-cheraghi-pouria-11ba60237/)
-* [Kaiwen Hong](https://www.linkedin.com/in/kaiwen-hong-524520141/?locale=en_US)
-* [Neeloy Chakraborty](https://theneeloy.github.io/)
+* [Aamir Hasan](https://aamzhas.github.io/)
+* [Haonan Chen](https://haonan16.github.io/)
 
 <br/>
 <h1>Advisor</h1>

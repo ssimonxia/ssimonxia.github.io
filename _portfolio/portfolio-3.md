@@ -1,29 +1,38 @@
 ---
-title: "YOLO DeepSORT Waste Tracking and Counting"
-excerpt: "<p>Effective object detection and tracking are critical for a wide range of applications, from industrial automation to environmental conservation. This project focuses on advancing these capabilities by developing algorithms that accurately track and count objects in video footage, as well as enhancing the performance of detection models. By leveraging state-of-the-art methods and optimizing model training, this work aims to improve object detection accuracy and efficiency in real-world scenarios.</p>"
+title: "MythoVerse AI – AI-Powered Video Storytelling"
+excerpt: "<p>MythoVerse AI is an AI-powered storytelling platform that transforms text, images, and ideas into dynamic, high-quality videos with voiceovers, subtitles, and sound effects. Our text-to-video generator leverages advanced semantic understanding to produce engaging, visually compelling content effortlessly. With real-time AI-generated voiceovers and customizable scene editing, MythoVerse empowers creators to bring their stories, animations, and cinematic visions to life with minimal effort. Whether for anime, action sequences, cyberpunk aesthetics, or personalized narratives, MythoVerse AI redefines content creation by merging visual storytelling and AI-driven narration into a seamless, creative experience.</p> <a href='https://mythovers.com/' target='_blank'>Visit Mythoverse AI</a>"
 collection: portfolio
 ---
 
-Object detection and tracking in video footage play a crucial role in various applications, from surveillance to environmental monitoring. In this project, we developed advanced object tracking and counting algorithms using the DeepSort tracking method, enabling precise enumeration of specific objects within video sequences. Recognizing the importance of accurate data annotation for model training, we collected and meticulously annotated waste data using Roboflow, which was subsequently used to train YOLO models for the detection of different types of waste. Furthermore, to enhance the performance of these YOLO models during both training and inference, we implemented decision-level multi-modality, integrating various data sources to improve accuracy and efficiency. This work contributes to the field of object detection and environmental monitoring by refining algorithmic approaches and optimizing model performance in complex real-world scenarios.
+I am a co-founder of MythoVerse AI, an advanced AI-driven platform that transforms text, images, and ideas into high-quality videos with seamless voiceovers, subtitles, and sound effects. Our text-to-video and image-to-video technology utilizes deep semantic understanding, allowing creators to effortlessly generate visually engaging content.
+
+🔹 AI-Powered Video Generation: Instantly create cinematic-style videos from simple text prompts or images.  
+🔹 Real-Time AI Voiceovers: Bring your stories to life with natural, expressive AI-generated narration.  
+🔹 Custom Scene Editing: Fine-tune and personalize every aspect of your video to match your creative vision.  
+
+🚀 Current Progress:
+
+* Built and launched a fully functional AI video generation platform.
+* Developed a powerful text-to-video AI with integrated voice synthesis.
+* Engaged with early adopters and content creators for feedback and platform growth.
+* Our goal is to revolutionize AI-driven video creation, making storytelling, animation, and content production faster, more intuitive, and accessible to everyone.
+
+More at: [Mythoverse AI](https://mythovers.com/)   
+About us: [1Shan](https://1shans.com/)   
 
 <br/>
-<h1>Skills Used</h1>
+<h1>Technologies Used</h1>
 
-* You Only Look Once (YOLO)
-* OpenCV
-* RoboFlow
-* Algorithm Designs
-* Computer Vision
+* AI Foundation Model
+* Machine Learning
+* Vision Language Model
+* Reinforcement Learning
+* Website Development
 
 <br/>
 <h1>Collaborator</h1>   
 
-* [Ayyan Iqbal](https://www.linkedin.com/in/ayyan-iqbal-7141ab22a/)
-
-<br/>
-<h1>Status</h1>
-
-Ongoing
-
-
- 
+* [Ziang Gu](https://zianggu1.github.io/): guziang@msu.edu  
+* Juyuan Huang: juyuanhuang24@gmail.com
+* Feichi Cai: linuscai.feichi@gmail.com
+* Zhiyuan Ren: renzhiy1@msu.edu
